@@ -1,4 +1,4 @@
-# bestow
+# Bestow
 Bestow is a project I did for a "HealthHacks Philippines" Hackathon. This project aims to help people with medical needs through online crowdsourcing.
 
 Current features:
